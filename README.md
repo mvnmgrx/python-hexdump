@@ -1,6 +1,9 @@
 # Python Hexdump
 Simple function to dump an array of bytes into a bytewise hex dump.
 
+## Requirements
+- Python 3.10 or newer
+
 ## Example
 
 ```python
