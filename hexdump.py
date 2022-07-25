@@ -1,4 +1,5 @@
-"""Class to manage KiCad boards
+"""Hexdump in Python
+
 Author:
     (C) Marvin Mager - @mvnmgrx - 2022
 
